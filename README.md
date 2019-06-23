@@ -8,7 +8,7 @@
 | Markdown | [Markdown.md](https://github.com/JinYAnGHe/Learning_CV/tree/master/notes/Markdown.md) |
 | OpenCV | [OpenCV_compile.md](https://github.com/JinYAnGHe/Learning_CV/tree/master/notes/OpenCV_compile.md) |
 
-###　Paper
+### Paper
 
 |          name          |             link              |
 | :--------------------: | :---------------------------: |
