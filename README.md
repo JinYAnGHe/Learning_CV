@@ -1,21 +1,23 @@
-## CV Notes
-
-分享计算机视觉及目标检测相关的笔记，记录学习心路历程。
-
-## 目录
+## Context
 
 ### Linux
 
+|  name  |     link     |
+| :----: | :-----------: |
+| Docker | [Docker.md]() |
+| Markdown | [Markdown.md]() |
+| OpenCV | [OpenCV_compile.md]() |
+
+###　Paper
+
+|          name          |             link              |
+| :--------------------: | :---------------------------: |
+| Small object detection | [Small_object_detection.md]() |
+|   Lightweight models   |   [Lightweight_models.md]()   |
+|      Segmentation      |      [Segmentation.md]()      |
 
 
-### 检测框架
 
-|    名称     | 链接 |
-| :---------: | :--: |
-|  Detectron  |      |
-| mmdetection |      |
-
-###　论文笔记
 
 
 
