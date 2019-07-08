@@ -33,7 +33,7 @@
 
 ### MobileNetV2
 
-- **Modification **
+- **Modification**
 
 1. Linear Bottlenecks : For the representation power of model.The features of high-dimensional space  will not loss information after ReLU function.No ReLU after pointwise convolution.
 2. Inverted residuals : Dimension elevation before dimension reduction
