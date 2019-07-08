@@ -18,7 +18,7 @@
 3. Network fragmentation reduces the degree of parallelism(especially for GPU)
 4. Reduce element-wise operation.Element-wise operation bring consumption of time is more than it reflected on FLOPS
 
-- **Modification **
+- **Modification**
 
 1. Channel split at the beginning of each unit
 2. In a branch, three convolutions with same input and output channels
