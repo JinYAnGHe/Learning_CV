@@ -17,17 +17,17 @@
     Deep learning based methods
 ## Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment
 - Scale Aggregation Topology
-	** 热图回归的网络拓扑结构需要获取不同尺度的全局和局部信息以及保留分辨率信息 **
+	**热图回归的网络拓扑结构需要获取不同尺度的全局和局部信息以及保留分辨率信息**
 	U-Net 
     Hourglass
     DLA
     SAT(propose)
 - Transformer
-  ** 由于固定的几何结构，U-Net网络结构缺乏变换的建模能力 **
+  **由于固定的几何结构，U-Net网络结构缺乏变换的建模能力**
   STN
   deformable conv
   data augmentaion by random affine transformation
 ## Wing loss
 - wing loss
-  ** 提高神经网络对小中范围误差的训练效果 **
-  ![wingloss](/home/yang/Documents/wingloss.png)
+  **提高神经网络对小中范围误差的训练效果**
+  ![wingloss](https://github.com/JinYAnGHe/Learning_CV/tree/master/images/wingloss.png)
